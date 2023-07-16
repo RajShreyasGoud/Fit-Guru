@@ -1,1 +1,1 @@
-# Fit-Buddy
+# Fit-Guru
